@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#_cs\\do_an_LTM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|E:\\c#_cs\\do_an_LTM\\do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|E:\\c#_cs\\do_an_LTM\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\do_an_LTM.csproj|solutionrelative:do_an_ltm\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs [Design]",
+              "RelativeToolTip": "do_an_LTM\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:31:36.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Register.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs",
+              "RelativeToolTip": "do_an_LTM\\Register.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:26:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Program.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Program.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Program.cs",
+              "RelativeToolTip": "do_an_LTM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:35:55.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
+              "RelativeToolTip": "do_an_LTM\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T03:26:16.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Register.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs [Design]",
+              "RelativeToolTip": "do_an_LTM\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:51:22.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.Designer.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.Designer.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Register.Designer.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.Designer.cs",
+              "RelativeToolTip": "do_an_LTM\\Register.Designer.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAAFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T02:52:28.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.Designer.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.Designer.cs",
+              "RelativeToolTip": "do_an_LTM\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T01:51:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "test.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\test.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\test.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\test.cs",
+              "RelativeToolTip": "do_an_LTM\\test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:02:32.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
