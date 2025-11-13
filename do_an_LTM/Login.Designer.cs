@@ -52,11 +52,11 @@ namespace do_an_LTM
             labelTitle.AutoSize = true;
             labelTitle.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
             labelTitle.ForeColor = Color.FromArgb(0, 122, 204);
-            labelTitle.Location = new Point(422, 70);
+            labelTitle.Location = new Point(350, 68);
             labelTitle.Name = "labelTitle";
-            labelTitle.Size = new Size(196, 32);
+            labelTitle.Size = new Size(364, 41);
             labelTitle.TabIndex = 0;
-            labelTitle.Text = "Login to System";
+            labelTitle.Text = "ĐĂNG NHẬP HỆ THỐNG";
             // 
             // labelUsername
             // 
@@ -65,9 +65,9 @@ namespace do_an_LTM
             labelUsername.Font = new Font("Segoe UI", 12F);
             labelUsername.Location = new Point(380, 150);
             labelUsername.Name = "labelUsername";
-            labelUsername.Size = new Size(84, 21);
+            labelUsername.Size = new Size(98, 28);
             labelUsername.TabIndex = 1;
-            labelUsername.Text = "Username:";
+            labelUsername.Text = "Tài khoản:";
             // 
             // labelPassword
             // 
@@ -76,9 +76,9 @@ namespace do_an_LTM
             labelPassword.Font = new Font("Segoe UI", 12F);
             labelPassword.Location = new Point(380, 220);
             labelPassword.Name = "labelPassword";
-            labelPassword.Size = new Size(79, 21);
+            labelPassword.Size = new Size(98, 28);
             labelPassword.TabIndex = 3;
-            labelPassword.Text = "Password:";
+            labelPassword.Text = "Mật khẩu:";
             // 
             // textBoxUsername
             // 
@@ -86,7 +86,7 @@ namespace do_an_LTM
             textBoxUsername.Font = new Font("Segoe UI", 14F);
             textBoxUsername.Location = new Point(384, 174);
             textBoxUsername.Name = "textBoxUsername";
-            textBoxUsername.Size = new Size(280, 32);
+            textBoxUsername.Size = new Size(280, 39);
             textBoxUsername.TabIndex = 2;
             // 
             // textBoxPassword
@@ -96,7 +96,7 @@ namespace do_an_LTM
             textBoxPassword.Location = new Point(384, 244);
             textBoxPassword.Name = "textBoxPassword";
             textBoxPassword.PasswordChar = '●';
-            textBoxPassword.Size = new Size(280, 32);
+            textBoxPassword.Size = new Size(280, 39);
             textBoxPassword.TabIndex = 4;
             // 
             // buttonLogin
@@ -111,7 +111,7 @@ namespace do_an_LTM
             buttonLogin.Name = "buttonLogin";
             buttonLogin.Size = new Size(280, 45);
             buttonLogin.TabIndex = 5;
-            buttonLogin.Text = "Login";
+            buttonLogin.Text = "Đăng nhập";
             buttonLogin.UseVisualStyleBackColor = false;
             buttonLogin.Click += buttonLogin_Click;
             // 
@@ -134,23 +134,23 @@ namespace do_an_LTM
             labelProjectTitle.Name = "labelProjectTitle";
             labelProjectTitle.Size = new Size(280, 461);
             labelProjectTitle.TabIndex = 0;
-            labelProjectTitle.Text = "WELLCOME\r\n";
+            labelProjectTitle.Text = "CHÀO MỪNG";
             labelProjectTitle.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // linkLabel1
             // 
             linkLabel1.AutoSize = true;
-            linkLabel1.Location = new Point(540, 285);
+            linkLabel1.Location = new Point(529, 285);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(124, 15);
+            linkLabel1.Size = new Size(135, 20);
             linkLabel1.TabIndex = 7;
             linkLabel1.TabStop = true;
-            linkLabel1.Text = "Don't have a account?\r\n";
+            linkLabel1.Text = "Chưa có tài khoản?\r\n";
             linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
-            // login
+            // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(784, 461);
@@ -165,7 +165,7 @@ namespace do_an_LTM
             Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             FormBorderStyle = FormBorderStyle.FixedDialog;
             MaximizeBox = false;
-            Name = "login";
+            Name = "Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
             panelLeft.ResumeLayout(false);

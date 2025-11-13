@@ -56,9 +56,9 @@ namespace do_an_LTM
             labelTitle.ForeColor = Color.White;
             labelTitle.Location = new Point(195, 76);
             labelTitle.Name = "labelTitle";
-            labelTitle.Size = new Size(107, 32);
+            labelTitle.Size = new Size(143, 41);
             labelTitle.TabIndex = 0;
-            labelTitle.Text = "Register";
+            labelTitle.Text = "ĐĂNG KÍ";
             // 
             // labelUsername
             // 
@@ -67,9 +67,9 @@ namespace do_an_LTM
             labelUsername.Font = new Font("Segoe UI", 12F);
             labelUsername.Location = new Point(105, 146);
             labelUsername.Name = "labelUsername";
-            labelUsername.Size = new Size(84, 21);
+            labelUsername.Size = new Size(94, 28);
             labelUsername.TabIndex = 1;
-            labelUsername.Text = "Username:";
+            labelUsername.Text = "Tài khoản";
             // 
             // labelPassword
             // 
@@ -78,9 +78,9 @@ namespace do_an_LTM
             labelPassword.Font = new Font("Segoe UI", 12F);
             labelPassword.Location = new Point(105, 216);
             labelPassword.Name = "labelPassword";
-            labelPassword.Size = new Size(79, 21);
+            labelPassword.Size = new Size(98, 28);
             labelPassword.TabIndex = 3;
-            labelPassword.Text = "Password:";
+            labelPassword.Text = "Mật khẩu:";
             // 
             // textBoxUsername
             // 
@@ -88,7 +88,7 @@ namespace do_an_LTM
             textBoxUsername.Font = new Font("Segoe UI", 14F);
             textBoxUsername.Location = new Point(109, 170);
             textBoxUsername.Name = "textBoxUsername";
-            textBoxUsername.Size = new Size(280, 32);
+            textBoxUsername.Size = new Size(280, 39);
             textBoxUsername.TabIndex = 2;
             // 
             // textBoxPassword
@@ -98,7 +98,7 @@ namespace do_an_LTM
             textBoxPassword.Location = new Point(109, 240);
             textBoxPassword.Name = "textBoxPassword";
             textBoxPassword.PasswordChar = '●';
-            textBoxPassword.Size = new Size(280, 32);
+            textBoxPassword.Size = new Size(280, 39);
             textBoxPassword.TabIndex = 4;
             // 
             // buttonLogin
@@ -113,7 +113,7 @@ namespace do_an_LTM
             buttonLogin.Name = "buttonLogin";
             buttonLogin.Size = new Size(280, 45);
             buttonLogin.TabIndex = 5;
-            buttonLogin.Text = "Register";
+            buttonLogin.Text = "Đăng kí";
             buttonLogin.UseVisualStyleBackColor = false;
             // 
             // labelProjectTitle
@@ -126,7 +126,7 @@ namespace do_an_LTM
             labelProjectTitle.Name = "labelProjectTitle";
             labelProjectTitle.Size = new Size(280, 461);
             labelProjectTitle.TabIndex = 0;
-            labelProjectTitle.Text = "WELLCOME\r\n";
+            labelProjectTitle.Text = "CHÀO MỪNG";
             labelProjectTitle.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // panelLeft
@@ -146,9 +146,9 @@ namespace do_an_LTM
             labConfirm.Font = new Font("Segoe UI", 12F);
             labConfirm.Location = new Point(105, 282);
             labConfirm.Name = "labConfirm";
-            labConfirm.Size = new Size(140, 21);
+            labConfirm.Size = new Size(177, 28);
             labConfirm.TabIndex = 7;
-            labConfirm.Text = "Confirm Password:";
+            labConfirm.Text = "Xác thực mật khẩu:";
             // 
             // textBoxConfirm
             // 
@@ -157,7 +157,7 @@ namespace do_an_LTM
             textBoxConfirm.Location = new Point(109, 306);
             textBoxConfirm.Name = "textBoxConfirm";
             textBoxConfirm.PasswordChar = '●';
-            textBoxConfirm.Size = new Size(280, 32);
+            textBoxConfirm.Size = new Size(280, 39);
             textBoxConfirm.TabIndex = 8;
             // 
             // label1
@@ -167,7 +167,7 @@ namespace do_an_LTM
             label1.ForeColor = Color.White;
             label1.Location = new Point(12, 9);
             label1.Name = "label1";
-            label1.Size = new Size(55, 37);
+            label1.Size = new Size(68, 46);
             label1.TabIndex = 9;
             label1.Text = "<<";
             label1.UseMnemonic = false;
@@ -175,7 +175,7 @@ namespace do_an_LTM
             // 
             // Register
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(0, 122, 204);
             ClientSize = new Size(784, 461);

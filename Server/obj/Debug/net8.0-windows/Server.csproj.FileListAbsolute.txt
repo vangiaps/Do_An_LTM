@@ -1,0 +1,17 @@
+E:\Do_An_LTM\Server\bin\Debug\net8.0-windows\Server.exe
+E:\Do_An_LTM\Server\bin\Debug\net8.0-windows\Server.deps.json
+E:\Do_An_LTM\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+E:\Do_An_LTM\Server\bin\Debug\net8.0-windows\Server.dll
+E:\Do_An_LTM\Server\bin\Debug\net8.0-windows\Server.pdb
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.Server_qly_taiKhoan.resources
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.sourcelink.json
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.dll
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\refint\Server.dll
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.pdb
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\ref\Server.dll
