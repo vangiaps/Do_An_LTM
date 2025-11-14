@@ -1,18 +1,32 @@
 using Client;
+using System.Net.Sockets;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace do_an_LTM
 {
     public partial class Login : Form
     {
-        Connect connect = new Connect();
+        private Connect connect = new Connect();
 
+        // luu tru ket noi
+        private TcpClient serverConnect = null;
         public Login()
         {
             InitializeComponent();
         }
-        private void Login_Load(object sender, EventArgs e)
+        private async void Login_Load(object sender, EventArgs e)
         {
             //connect.ClientConnect();
+            try
+            {
+                serverConnect = await Task.Run(() =>
+                connect.ClientConnect("192.168.137.152", 9999)
+                );
+
+            }
+            catch { }
+
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -29,7 +43,7 @@ namespace do_an_LTM
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            connect.ClientConnect();
+
         }
 
     }

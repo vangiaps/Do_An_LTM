@@ -34,3 +34,5 @@ E:\c#_cs\do_an_LTM\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
 E:\c#_cs\do_an_LTM\Server\obj\Debug\net8.0-windows\ref\Server.dll
 E:\c#_cs\do_an_LTM\Server\obj\Debug\net8.0-windows\Server.ucAccountManagement.resources
 E:\c#_cs\do_an_LTM\Server\obj\Debug\net8.0-windows\Server.ucLoginHistory.resources
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.ucAccountManagement.resources
+E:\Do_An_LTM\Server\obj\Debug\net8.0-windows\Server.ucLoginHistory.resources

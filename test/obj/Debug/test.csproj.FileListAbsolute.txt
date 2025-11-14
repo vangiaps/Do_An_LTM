@@ -5,3 +5,11 @@ E:\c#_cs\do_an_LTM\test\obj\Debug\test.csproj.AssemblyReference.cache
 E:\c#_cs\do_an_LTM\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 E:\c#_cs\do_an_LTM\test\obj\Debug\test.exe
 E:\c#_cs\do_an_LTM\test\obj\Debug\test.pdb
+E:\Do_An_LTM\test\bin\Debug\test.exe.config
+E:\Do_An_LTM\test\bin\Debug\test.exe
+E:\Do_An_LTM\test\bin\Debug\test.pdb
+E:\Do_An_LTM\test\obj\Debug\test.csproj.AssemblyReference.cache
+E:\Do_An_LTM\test\obj\Debug\test.exe.config
+E:\Do_An_LTM\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+E:\Do_An_LTM\test\obj\Debug\test.exe
+E:\Do_An_LTM\test\obj\Debug\test.pdb

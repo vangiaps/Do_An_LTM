@@ -43,6 +43,7 @@ namespace do_an_LTM
             panelLeft = new Panel();
             labelProjectTitle = new Label();
             linkLabel1 = new LinkLabel();
+            lblStatus = new Label();
             panelLeft.SuspendLayout();
             SuspendLayout();
             // 
@@ -54,7 +55,7 @@ namespace do_an_LTM
             labelTitle.ForeColor = Color.FromArgb(0, 122, 204);
             labelTitle.Location = new Point(350, 68);
             labelTitle.Name = "labelTitle";
-            labelTitle.Size = new Size(292, 32);
+            labelTitle.Size = new Size(364, 41);
             labelTitle.TabIndex = 0;
             labelTitle.Text = "ĐĂNG NHẬP HỆ THỐNG";
             // 
@@ -65,7 +66,7 @@ namespace do_an_LTM
             labelUsername.Font = new Font("Segoe UI", 12F);
             labelUsername.Location = new Point(380, 150);
             labelUsername.Name = "labelUsername";
-            labelUsername.Size = new Size(78, 21);
+            labelUsername.Size = new Size(98, 28);
             labelUsername.TabIndex = 1;
             labelUsername.Text = "Tài khoản:";
             // 
@@ -76,7 +77,7 @@ namespace do_an_LTM
             labelPassword.Font = new Font("Segoe UI", 12F);
             labelPassword.Location = new Point(380, 220);
             labelPassword.Name = "labelPassword";
-            labelPassword.Size = new Size(78, 21);
+            labelPassword.Size = new Size(98, 28);
             labelPassword.TabIndex = 3;
             labelPassword.Text = "Mật khẩu:";
             // 
@@ -86,7 +87,7 @@ namespace do_an_LTM
             textBoxUsername.Font = new Font("Segoe UI", 14F);
             textBoxUsername.Location = new Point(384, 174);
             textBoxUsername.Name = "textBoxUsername";
-            textBoxUsername.Size = new Size(280, 32);
+            textBoxUsername.Size = new Size(280, 39);
             textBoxUsername.TabIndex = 2;
             // 
             // textBoxPassword
@@ -96,7 +97,7 @@ namespace do_an_LTM
             textBoxPassword.Location = new Point(384, 244);
             textBoxPassword.Name = "textBoxPassword";
             textBoxPassword.PasswordChar = '●';
-            textBoxPassword.Size = new Size(280, 32);
+            textBoxPassword.Size = new Size(280, 39);
             textBoxPassword.TabIndex = 4;
             // 
             // buttonLogin
@@ -142,18 +143,28 @@ namespace do_an_LTM
             linkLabel1.AutoSize = true;
             linkLabel1.Location = new Point(529, 285);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(108, 15);
+            linkLabel1.Size = new Size(135, 20);
             linkLabel1.TabIndex = 7;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Chưa có tài khoản?\r\n";
             linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
+            // lblStatus
+            // 
+            lblStatus.AutoSize = true;
+            lblStatus.Location = new Point(331, 369);
+            lblStatus.Name = "lblStatus";
+            lblStatus.Size = new Size(50, 20);
+            lblStatus.TabIndex = 8;
+            lblStatus.Text = "label1";
+            // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(784, 461);
+            Controls.Add(lblStatus);
             Controls.Add(panelLeft);
             Controls.Add(linkLabel1);
             Controls.Add(labelTitle);
@@ -189,5 +200,6 @@ namespace do_an_LTM
         private System.Windows.Forms.Panel panelLeft;
         private System.Windows.Forms.Label labelProjectTitle;
         private LinkLabel linkLabel1;
+        private Label lblStatus;
     }
 }
