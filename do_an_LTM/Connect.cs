@@ -9,36 +9,36 @@ namespace Client
 {
     class Connect
     {
-        public void ClientConnect()
+        public TcpClient ClientConnect( String ip, int port)
         {
             TcpClient client = new TcpClient();
+            client.Connect(ip, port);
+            // neu loi tra ve SocketException
+            return client;
+        }
 
-            try
+        public async Task SendLoginRequest(TcpClient client, string userName,string pass)
+        {
+            if (client == null || !client.Connected)
             {
-                // --- 1. Thử kết nối ---
-                // "127.0.0.1" là IP của máy bạn, 9999 là port
-                client.Connect("192.168.155.102", 9999);
+                throw new Exception("Chưa kết nối đến server.");
+            }
+            NetworkStream stream = client.GetStream();
+            string loginRequest = $"LOGIN|{userName}|{pass}";
+            byte[] requestData = Encoding.UTF8.GetBytes(loginRequest);
+            stream.Write(requestData, 0, requestData.Length);
+        }
+        public string ReceiveResponse(TcpClient client)
+        {
+            if (client == null || !client.Connected)
+            {
+                throw new Exception("Chưa kết nối đến server.");
+            }
+            NetworkStream stream = client.GetStream();
+            byte[] responseBuffer = new byte[1024];
+            int bytesRead = stream.Read(responseBuffer, 0, responseBuffer.Length);
 
-                // --- 2. Báo thành công ---
-                // Nếu dòng trên chạy qua mà không lỗi, tức là đã kết nối thành công
-                MessageBox.Show("Kết nối Server thành công!", "Thành công");
-
-                // (Chúng ta không gửi hay nhận gì cả, chỉ test kết nối)
-            }
-            catch (SocketException)
-            {
-                // --- 3. Báo thất bại ---
-                // Lỗi này xảy ra nếu Server chưa chạy hoặc bị tường lửa chặn
-                MessageBox.Show("Không thể kết nối đến Server!", "Thất bại");
-            }
-            finally
-            {
-                // --- 4. Luôn đóng kết nối ---
-                if (client.Connected)
-                {
-                    client.Close();
-                }
-            }
+            return Encoding.UTF8.GetString(responseBuffer, 0, bytesRead);
         }
     }
 }

@@ -1,3 +1,5 @@
+using Client;
+
 namespace do_an_LTM
 {
     internal static class Program

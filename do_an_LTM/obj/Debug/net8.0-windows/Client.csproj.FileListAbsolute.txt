@@ -22,9 +22,7 @@ E:\c#_cs\do_an_LTM\do_an_LTM\bin\Debug\net8.0-windows\Client.deps.json
 E:\c#_cs\do_an_LTM\do_an_LTM\bin\Debug\net8.0-windows\Client.runtimeconfig.json
 E:\c#_cs\do_an_LTM\do_an_LTM\bin\Debug\net8.0-windows\Client.dll
 E:\c#_cs\do_an_LTM\do_an_LTM\bin\Debug\net8.0-windows\Client.pdb
-E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\do_an_LTM.Login.resources
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.Properties.Resources.resources
-E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\do_an_LTM.Register.resources
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
@@ -36,3 +34,5 @@ E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\refint\Client.dll
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.pdb
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
 E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\ref\Client.dll
+E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.Login.resources
+E:\c#_cs\do_an_LTM\do_an_LTM\obj\Debug\net8.0-windows\Client.Register.resources

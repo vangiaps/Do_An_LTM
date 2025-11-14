@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\c#_cs\\do_an_LTM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCA57931-5479-4A8B-BD1B-BF3DE4A6294B}|test\\test.csproj|e:\\c#_cs\\do_an_ltm\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCA57931-5479-4A8B-BD1B-BF3DE4A6294B}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,55 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs",
-              "RelativeDocumentMoniker": "do_an_LTM\\Register.cs",
-              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Register.cs [Design]*",
-              "RelativeToolTip": "do_an_LTM\\Register.cs [Design]*",
+              "DocumentIndex": 2,
+              "Title": "accept.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
+              "RelativeDocumentMoniker": "Server\\accept.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
+              "RelativeToolTip": "Server\\accept.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwDkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:36:37.838Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\test\\Program.cs",
-              "RelativeDocumentMoniker": "test\\Program.cs",
-              "ToolTip": "E:\\c#_cs\\do_an_LTM\\test\\Program.cs",
-              "RelativeToolTip": "test\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T03:20:46.465Z",
+              "WhenOpened": "2025-11-14T16:18:57.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Connect.cs",
-              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
-              "RelativeDocumentMoniker": "do_an_LTM\\Connect.cs",
-              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
-              "RelativeToolTip": "do_an_LTM\\Connect.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T14:37:27.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ServerNetwork.cs",
               "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
               "RelativeDocumentMoniker": "Server\\ServerNetwork.cs",
               "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
               "RelativeToolTip": "Server\\ServerNetwork.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAvwDIAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-13T14:16:13.844Z",
               "EditorCaption": ""
@@ -90,27 +61,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Server_qly_taiKhoan.cs",
-              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\Server_qly_taiKhoan.cs",
-              "RelativeDocumentMoniker": "Server\\Server_qly_taiKhoan.cs",
-              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\Server_qly_taiKhoan.cs",
-              "RelativeToolTip": "Server\\Server_qly_taiKhoan.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Title": "accept.cs [Design]",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
+              "RelativeDocumentMoniker": "Server\\accept.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs [Design]",
+              "RelativeToolTip": "Server\\accept.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T13:10:38.652Z",
+              "WhenOpened": "2025-11-14T15:57:41.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Connect.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeToolTip": "do_an_LTM\\Connect.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:37:27.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Login.cs",
               "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
               "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
               "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
               "RelativeToolTip": "do_an_LTM\\Login.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwF8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T14:43:28.632Z"
+              "WhenOpened": "2025-11-13T14:43:28.632Z",
+              "EditorCaption": ""
             }
           ]
         }

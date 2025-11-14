@@ -79,6 +79,7 @@
             button3.TabIndex = 2;
             button3.Text = "Xác nhận";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // btnLichSuDangNhap
             // 
