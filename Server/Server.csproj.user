@@ -4,5 +4,11 @@
     <Compile Update="Server_qly_taiKhoan.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ucAccountManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucLoginHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

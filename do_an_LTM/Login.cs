@@ -1,10 +1,18 @@
+using Client;
+
 namespace do_an_LTM
 {
     public partial class Login : Form
     {
+        Connect connect = new Connect();
+
         public Login()
         {
             InitializeComponent();
+        }
+        private void Login_Load(object sender, EventArgs e)
+        {
+            //connect.ClientConnect();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
@@ -21,7 +29,8 @@ namespace do_an_LTM
 
         private void buttonLogin_Click(object sender, EventArgs e)
         {
-            
+            connect.ClientConnect();
         }
+
     }
 }

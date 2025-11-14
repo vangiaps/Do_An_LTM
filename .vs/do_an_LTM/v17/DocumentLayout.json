@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Do_An_LTM\\",
+  "WorkspaceRootPath": "E:\\c#_cs\\do_an_LTM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA57931-5479-4A8B-BD1B-BF3DE4A6294B}|test\\test.csproj|e:\\c#_cs\\do_an_ltm\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA57931-5479-4A8B-BD1B-BF3DE4A6294B}|test\\test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\server_qly_taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,46 +33,68 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Server_qly_taiKhoan.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\Server_qly_taiKhoan.cs",
-              "RelativeDocumentMoniker": "Server\\Server_qly_taiKhoan.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\Server_qly_taiKhoan.cs",
-              "RelativeToolTip": "Server\\Server_qly_taiKhoan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\test\\Program.cs",
+              "RelativeDocumentMoniker": "test\\Program.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\test\\Program.cs",
+              "RelativeToolTip": "test\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:21:54.995Z",
+              "WhenOpened": "2025-11-14T03:20:46.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Connect.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeToolTip": "do_an_LTM\\Connect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:18:09.81Z",
+              "WhenOpened": "2025-11-13T14:37:27.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Server_qly_taiKhoan.cs [Design]",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\Server_qly_taiKhoan.cs",
-              "RelativeDocumentMoniker": "Server\\Server_qly_taiKhoan.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\Server_qly_taiKhoan.cs [Design]",
-              "RelativeToolTip": "Server\\Server_qly_taiKhoan.cs [Design]",
+              "Title": "ServerNetwork.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
+              "RelativeDocumentMoniker": "Server\\ServerNetwork.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
+              "RelativeToolTip": "Server\\ServerNetwork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwDIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:14:48.916Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-11-13T14:16:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server_qly_taiKhoan.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\Server_qly_taiKhoan.cs",
+              "RelativeDocumentMoniker": "Server\\Server_qly_taiKhoan.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\Server_qly_taiKhoan.cs",
+              "RelativeToolTip": "Server\\Server_qly_taiKhoan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:10:38.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
+              "RelativeToolTip": "do_an_LTM\\Login.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:43:28.632Z"
             }
           ]
         }

@@ -54,7 +54,7 @@ namespace do_an_LTM
             labelTitle.ForeColor = Color.FromArgb(0, 122, 204);
             labelTitle.Location = new Point(350, 68);
             labelTitle.Name = "labelTitle";
-            labelTitle.Size = new Size(364, 41);
+            labelTitle.Size = new Size(292, 32);
             labelTitle.TabIndex = 0;
             labelTitle.Text = "ĐĂNG NHẬP HỆ THỐNG";
             // 
@@ -65,7 +65,7 @@ namespace do_an_LTM
             labelUsername.Font = new Font("Segoe UI", 12F);
             labelUsername.Location = new Point(380, 150);
             labelUsername.Name = "labelUsername";
-            labelUsername.Size = new Size(98, 28);
+            labelUsername.Size = new Size(78, 21);
             labelUsername.TabIndex = 1;
             labelUsername.Text = "Tài khoản:";
             // 
@@ -76,7 +76,7 @@ namespace do_an_LTM
             labelPassword.Font = new Font("Segoe UI", 12F);
             labelPassword.Location = new Point(380, 220);
             labelPassword.Name = "labelPassword";
-            labelPassword.Size = new Size(98, 28);
+            labelPassword.Size = new Size(78, 21);
             labelPassword.TabIndex = 3;
             labelPassword.Text = "Mật khẩu:";
             // 
@@ -86,7 +86,7 @@ namespace do_an_LTM
             textBoxUsername.Font = new Font("Segoe UI", 14F);
             textBoxUsername.Location = new Point(384, 174);
             textBoxUsername.Name = "textBoxUsername";
-            textBoxUsername.Size = new Size(280, 39);
+            textBoxUsername.Size = new Size(280, 32);
             textBoxUsername.TabIndex = 2;
             // 
             // textBoxPassword
@@ -96,7 +96,7 @@ namespace do_an_LTM
             textBoxPassword.Location = new Point(384, 244);
             textBoxPassword.Name = "textBoxPassword";
             textBoxPassword.PasswordChar = '●';
-            textBoxPassword.Size = new Size(280, 39);
+            textBoxPassword.Size = new Size(280, 32);
             textBoxPassword.TabIndex = 4;
             // 
             // buttonLogin
@@ -142,7 +142,7 @@ namespace do_an_LTM
             linkLabel1.AutoSize = true;
             linkLabel1.Location = new Point(529, 285);
             linkLabel1.Name = "linkLabel1";
-            linkLabel1.Size = new Size(135, 20);
+            linkLabel1.Size = new Size(108, 15);
             linkLabel1.TabIndex = 7;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Chưa có tài khoản?\r\n";
@@ -150,7 +150,7 @@ namespace do_an_LTM
             // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(784, 461);
@@ -168,6 +168,7 @@ namespace do_an_LTM
             Name = "Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
+            Load += Login_Load;
             panelLeft.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();

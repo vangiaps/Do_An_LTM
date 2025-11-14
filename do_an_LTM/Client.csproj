@@ -23,4 +23,12 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="E:\c#_cs\do_an_LTM\do_an_LTM\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="E:\c#_cs\do_an_LTM\do_an_LTM\.editorconfig" />
+  </ItemGroup>
+
 </Project>
