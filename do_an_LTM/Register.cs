@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace do_an_LTM
+namespace Client
 {
     public partial class Register : Form
     {

@@ -1,6 +1,6 @@
 ﻿// Ghi đè file này lên file Form1.Designer.cs của bạn
 // Namespace này phải khớp với project của bạn
-namespace do_an_LTM
+namespace Client
 {
     // Thêm các using này vào
     using System.Drawing;
@@ -44,6 +44,8 @@ namespace do_an_LTM
             labelProjectTitle = new Label();
             linkLabel1 = new LinkLabel();
             lblStatus = new Label();
+            // ĐÃ THÊM LBLTB
+            lbltb = new Label();
             panelLeft.SuspendLayout();
             SuspendLayout();
             // 
@@ -53,7 +55,7 @@ namespace do_an_LTM
             labelTitle.AutoSize = true;
             labelTitle.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
             labelTitle.ForeColor = Color.FromArgb(0, 122, 204);
-            labelTitle.Location = new Point(350, 68);
+            labelTitle.Location = new Point(372, 69);
             labelTitle.Name = "labelTitle";
             labelTitle.Size = new Size(364, 41);
             labelTitle.TabIndex = 0;
@@ -151,12 +153,22 @@ namespace do_an_LTM
             // 
             // lblStatus
             // 
+            // ĐÃ CHỌN PHIÊN BẢN CÓ LBLTB
             lblStatus.AutoSize = true;
-            lblStatus.Location = new Point(331, 369);
+            lblStatus.Location = new Point(384, 377);
             lblStatus.Name = "lblStatus";
-            lblStatus.Size = new Size(50, 20);
+            lblStatus.Size = new Size(16, 15);
             lblStatus.TabIndex = 8;
-            lblStatus.Text = "label1";
+            lblStatus.Text = "...";
+            // 
+            // lbltb
+            // 
+            lbltb.AutoSize = true;
+            lbltb.Location = new Point(386, 406);
+            lbltb.Name = "lbltb";
+            lbltb.Size = new Size(38, 15);
+            lbltb.TabIndex = 9;
+            lbltb.Text = "label1";
             // 
             // Login
             // 
@@ -164,6 +176,8 @@ namespace do_an_LTM
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(784, 461);
+            // ĐÃ THÊM LBLTB VÀO CONTROLS
+            Controls.Add(lbltb);
             Controls.Add(lblStatus);
             Controls.Add(panelLeft);
             Controls.Add(linkLabel1);
@@ -201,5 +215,7 @@ namespace do_an_LTM
         private System.Windows.Forms.Label labelProjectTitle;
         private LinkLabel linkLabel1;
         private Label lblStatus;
+        // ĐÃ THÊM LBLTB
+        private Label lbltb;
     }
 }

@@ -1,6 +1,6 @@
 ﻿// Ghi đè file này lên file Form1.Designer.cs của bạn
 // Namespace này phải khớp với project của bạn
-namespace do_an_LTM
+namespace Client
 {
     // Thêm các using này vào
     using System.Drawing;
