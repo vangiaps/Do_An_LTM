@@ -25,7 +25,7 @@ namespace Client
                 serverConnect = await Task.Run(() =>
                     // Chú ý: IP này được lấy từ phiên bản thứ 2
                     // Bạn hãy kiểm tra lại xem IP "192.168.155.102" đã đúng chưa
-                    connect.ClientConnect("192.168.1.217", 9999)
+                    connect.ClientConnect("10.160.20.64", 9999)
                 );
                 lblStatus.Text = "Da ket noi"; // Giữ lại phần cập nhật trạng thái
             }

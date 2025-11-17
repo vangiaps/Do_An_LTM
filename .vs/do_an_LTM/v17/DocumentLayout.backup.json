@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Do_An_LTM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|E:\\Do_An_LTM\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Server\\DatabaseManager.cs",
+              "ToolTip": "E:\\Do_An_LTM\\Server\\DatabaseManager.cs",
+              "RelativeToolTip": "Server\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:11:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucLoginHistory.cs [Design]",
+              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\ucLoginHistory.cs",
+              "RelativeDocumentMoniker": "Server\\ucLoginHistory.cs",
+              "ToolTip": "E:\\Do_An_LTM\\Server\\ucLoginHistory.cs [Design]",
+              "RelativeToolTip": "Server\\ucLoginHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:43:11.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "accept.cs",
+              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "RelativeDocumentMoniker": "Server\\accept.cs",
+              "ToolTip": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "RelativeToolTip": "Server\\accept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:32:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "accept.cs [Design]",
+              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "RelativeDocumentMoniker": "Server\\accept.cs",
+              "ToolTip": "E:\\Do_An_LTM\\Server\\accept.cs [Design]",
+              "RelativeToolTip": "Server\\accept.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T06:32:10.321Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "RelativeToolTip": "do_an_LTM\\Login.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:27:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs [Design]",
+              "RelativeToolTip": "do_an_LTM\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:26:48.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeDocumentMoniker": "do_an_LTM\\Connect.cs",
+              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Connect.cs",
+              "RelativeToolTip": "do_an_LTM\\Connect.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:26:30.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerNetwork.cs",
+              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\ServerNetwork.cs",
+              "RelativeDocumentMoniker": "Server\\ServerNetwork.cs",
+              "ToolTip": "E:\\Do_An_LTM\\Server\\ServerNetwork.cs",
+              "RelativeToolTip": "Server\\ServerNetwork.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:29:20.493Z",
+              "EditorCaption": ""
             }
           ]
         }

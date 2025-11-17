@@ -66,8 +66,8 @@ namespace Server
                     stream.Write(responseData, 0, responseData.Length);
 
                     // Xong nhiệm vụ, BÂY GIỜ mới đóng kết nối
-                    stream.Close();
-                    client.Close();
+                    //stream.Close();
+                    //client.Close();
 
                     // Xóa user khỏi ListBox
                     lstPendingUsers.Items.Remove(username);

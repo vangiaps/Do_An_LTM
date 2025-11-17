@@ -28,32 +28,44 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            panel1 = new Panel();
+            listBoxHistory = new ListBox();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
-            // dataGridView1
+            // panel1
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Dock = DockStyle.Bottom;
-            dataGridView1.Location = new Point(0, 117);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(584, 290);
-            dataGridView1.TabIndex = 0;
+            panel1.Controls.Add(listBoxHistory);
+            panel1.Dock = DockStyle.Bottom;
+            panel1.Location = new Point(0, 67);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(667, 476);
+            panel1.TabIndex = 0;
+            // 
+            // listBoxHistory
+            // 
+            listBoxHistory.Dock = DockStyle.Top;
+            listBoxHistory.FormattingEnabled = true;
+            listBoxHistory.Location = new Point(0, 0);
+            listBoxHistory.Name = "listBoxHistory";
+            listBoxHistory.Size = new Size(667, 164);
+            listBoxHistory.TabIndex = 0;
             // 
             // ucLoginHistory
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(dataGridView1);
+            Controls.Add(panel1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "ucLoginHistory";
-            Size = new Size(584, 407);
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            Size = new Size(667, 543);
+            panel1.ResumeLayout(false);
             ResumeLayout(false);
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
+        private Panel panel1;
+        private ListBox listBoxHistory;
     }
 }
