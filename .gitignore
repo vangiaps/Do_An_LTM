@@ -1,0 +1,56 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+## Cache files
+*.cache
+*.tmp
+*.temp
+
+## Compiled DLL/EXE
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+## MSBuild
+*.cache
+*.log
+*.tlog
+
+## Visual Studio config
+.vscode/
+*.code-workspace
+
+## Rider
+.idea/
+*.iml
+
+## Other
+*.db
+*.bak
+*.swp
+*.orig
+
+## Publish
+publish/

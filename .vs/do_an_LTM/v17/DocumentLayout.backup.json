@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Do_An_LTM\\",
+  "WorkspaceRootPath": "E:\\c#_cs\\do_an_LTM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\do_an_ltm\\server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\servernetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|E:\\c#_cs\\do_an_LTM\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|E:\\c#_cs\\do_an_LTM\\server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\ucloginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|e:\\c#_cs\\do_an_ltm\\server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54974CEB-3B3F-46EE-856E-AA073D756A29}|Server\\Server.csproj|solutionrelative:server\\accept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|e:\\c#_cs\\do_an_ltm\\do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|E:\\Do_An_LTM\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|E:\\c#_cs\\do_an_LTM\\do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DFD857C0-F923-46FE-BEC2-4A4ED2B5E31E}|do_an_LTM\\Client.csproj|solutionrelative:do_an_ltm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -52,22 +52,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\DatabaseManager.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "Server\\DatabaseManager.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\DatabaseManager.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\DatabaseManager.cs",
               "RelativeToolTip": "Server\\DatabaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T08:11:26.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ucLoginHistory.cs [Design]",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\ucLoginHistory.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\ucLoginHistory.cs",
               "RelativeDocumentMoniker": "Server\\ucLoginHistory.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\ucLoginHistory.cs [Design]",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\ucLoginHistory.cs [Design]",
               "RelativeToolTip": "Server\\ucLoginHistory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T06:43:11.052Z",
@@ -75,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "accept.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
               "RelativeDocumentMoniker": "Server\\accept.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
               "RelativeToolTip": "Server\\accept.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,11 +88,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "accept.cs [Design]",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\accept.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs",
               "RelativeDocumentMoniker": "Server\\accept.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\accept.cs [Design]",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\accept.cs [Design]",
               "RelativeToolTip": "Server\\accept.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T06:32:10.321Z",
@@ -102,11 +102,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
               "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
-              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
               "RelativeToolTip": "do_an_LTM\\Login.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T13:27:02.962Z",
               "EditorCaption": ""
@@ -115,35 +115,36 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs",
               "RelativeDocumentMoniker": "do_an_LTM\\Login.cs",
-              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Login.cs [Design]",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Login.cs [Design]",
               "RelativeToolTip": "do_an_LTM\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-16T13:26:48.716Z"
+              "WhenOpened": "2025-11-16T13:26:48.716Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Connect.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\do_an_LTM\\Connect.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
               "RelativeDocumentMoniker": "do_an_LTM\\Connect.cs",
-              "ToolTip": "E:\\Do_An_LTM\\do_an_LTM\\Connect.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\do_an_LTM\\Connect.cs",
               "RelativeToolTip": "do_an_LTM\\Connect.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwBYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAxwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-16T13:26:30.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ServerNetwork.cs",
-              "DocumentMoniker": "E:\\Do_An_LTM\\Server\\ServerNetwork.cs",
+              "DocumentMoniker": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
               "RelativeDocumentMoniker": "Server\\ServerNetwork.cs",
-              "ToolTip": "E:\\Do_An_LTM\\Server\\ServerNetwork.cs",
+              "ToolTip": "E:\\c#_cs\\do_an_LTM\\Server\\ServerNetwork.cs",
               "RelativeToolTip": "Server\\ServerNetwork.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAYwCEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T13:29:20.493Z",
               "EditorCaption": ""
